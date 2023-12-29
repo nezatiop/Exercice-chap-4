@@ -1,8 +1,8 @@
 import pygame
 import sys
 import math
-
-
+"""
+#Exercice 4.6.1
 pygame.init()
 
 noir = (255,255,255)
@@ -43,4 +43,4 @@ while True:
 
     if event.key == pygame.K_ESCAPE:
         event.type == pygame.QUIT
-        
+"""
